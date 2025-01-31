@@ -1,6 +1,6 @@
 # Game Listing Website
 
-## Technolgies Used
+#### Technolgies Used
 Javascript
 React
 
