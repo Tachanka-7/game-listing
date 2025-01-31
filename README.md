@@ -3,3 +3,6 @@
 - Javascript
 - React
 - Tailwind
+- **Technology 2**
+- --Technology 3-- 
+- ***Technology 4***
